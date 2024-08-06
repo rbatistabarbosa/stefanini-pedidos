@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/stefanini-pedidos-api/src/Stefanini.Pedidos.Api/bin/Debug/net8.0
+/stefanini-pedidos-api/src/Stefanini.Pedidos.Api/obj
+/stefanini-pedidos-api/src/Stefanini.Pedidos.Core/bin/Debug/net8.0
+/stefanini-pedidos-api/src/Stefanini.Pedidos.Core/obj/Debug/net8.0
+/stefanini-pedidos-api/src/Stefanini.Pedidos.Core/obj
+/stefanini-pedidos-api/src/Stefanini.Pedidos.Infrastructure/bin/Debug/net8.0
+/stefanini-pedidos-api/src/Stefanini.Pedidos.Infrastructure/obj/Debug/net8.0
+/stefanini-pedidos-api/src/Stefanini.Pedidos.Infrastructure/obj
+/.vs/stefanini-pedidos/FileContentIndex
+/.vs
